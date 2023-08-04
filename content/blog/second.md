@@ -1,10 +1,10 @@
 +++
 title = "Explain Like I'm Five"
-date = 2023-07-02
+date = 2023-07-14
 description = "How I taught Ms Zdan's first-graders to empathize with a machine, and you can too!"
 slug = "eli5"
 [extra]
-prettydate = "July 2, 2023"
+prettydate = "July 14, 2023"
 +++
 
 Little kids use computers all the time.
