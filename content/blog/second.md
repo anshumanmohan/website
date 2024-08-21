@@ -366,8 +366,17 @@ My questions start with `#` and end with `;;`.  The computer's answers start wit
 
 First I asked OCaml to please tell me the biggest number it can handle.
 Then I added one to it.
-The answer was a rather _small_ number; note that weve gone deeply negative.
+The answer was a rather _small_ number; note that we've gone deeply negative.
 In fact, it was the smallest number OCaml can handle.
+
+A famous case of overflow in the wild is the Ariane 5 rocket.
+The Ariane 5 was a faster, more powerful version of the Ariane 4, but it ran much of the same software.
+During its maiden flight in 1996, the suffered an overflow error that caused it to think it was hurtling towards the earth, not away from it.
+This caused the rocket to self-destruct.
+[Here](https://youtu.be/N6PWATvLQCY?feature=shared) is a video of the event.
+
+
+
 
 We have clever ways of checking for overflow, but here's the thing:
 arithmetic accompanied by a special check for overflow is meaningfully more expensive than plain arithmetic.
