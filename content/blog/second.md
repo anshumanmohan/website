@@ -1,5 +1,5 @@
 +++
-title = "Explain Like I'm Five"
+title = "Explain Like I'm Five: Binary Numbers"
 date = 2023-07-14
 description = "How I taught Ms Zdan's first-graders to empathize with a machine, and you can too!"
 slug = "eli5"
