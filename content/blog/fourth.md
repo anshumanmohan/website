@@ -30,9 +30,7 @@ The former is King Arthur's Recipe of the Year 2025, and the latter proceeds exa
 It's quite pedagogically useful that these recipes are so similar, and so I ask that you use these recipes even if you'd normally use something else.
 The recipes are straightforward and well-written, and we'll mostly make them as written.
 
-Print these off, and use a highlighter to mark the differences between the two recipes. There are only a few, and they're basically all about timing. Here's a representative example: step 11 of the yeast recipe calls for a rest of 1-1.5 hours, while step 11 of the sourdough recipe calls for a rest of 4-6 hours. More on this below.
-
-// Photo of the highlighted recipes
+Print these off, and use a highlighter to mark the differences between the two recipes. There are only a few, and they're basically all about timing. Here's a representative example: step 11 of the yeast recipe calls for a rest of 1-1.5 hours, while step 11 of the sourdough recipe calls for a rest of 4-6 hours.
 
 This may sound a little much, but I advocate that you actually make both of these recipes for your lesson.
 Having the sourdough and yeast loaves available side by side will help your students understand the tradeoffs involved.
@@ -73,14 +71,14 @@ As to equipment:
 
 1. Decide on a time for your lesson.
 I played myself by announcing my lesson for 10am, which meant that I had to put in my first folds at 2am.
-Don't be like me; announce a late afternoon lesson. Here I assume you announced 4pm. A cap of 12 students will make good sense, as you'll see.
+Don't be like me; announce a late afternoon lesson. In the rest of this lesson plan I assume you announced 4pm. A cap of 12 students will make good sense, as you'll see.
 
 2. Your first folds will happen at 8am.
-So at 8am, you will need a cup of [ripe](https://www.kingarthurbaking.com/blog/2016/05/17/ripe-sourdough-starter) starter. If you know how to achieve that, do what you need to do and skip the rest of my discussion for this step. But if you're like me and your starter lives in the fridge and is fed every two weeks and you don't really know how it works, we'll need to feel things out a little.
+So at 8am, you will need a cup of [ripe](https://www.kingarthurbaking.com/blog/2016/05/17/ripe-sourdough-starter) starter. If you know how to achieve that, do what you need to do and skip the rest of my discussion for this step. But if you're like me and your starter lives in the fridge and is fed every two weeks and you don't really know how its whims and fancies, we'll need to feel things out a little.
     - Bring your starter out of the fridge at 4pm the previous day and give it a 1:1:1 feed (1 part starter, 1 part flour, 1 part water) by weight.
     - Put it in a warm spot. I was very happy with: an oven that's turned off but has its light on. If it's really quite cold in your house, you can boil a kettle of water and then put the whole kettle in the off oven.
     - Check on it at 10pm.
-      - If it's fully ripe, that means your cold and unfed starter went ripe in 6 hours. Your starter is now warm and active, so another 1:1:1 feeding now will take even less time, and you'll miss the 8am connection you're hoping to make. So feed it again, but now with a 1:3:3 ratio (1 part starter, 3 parts flour, 3 parts water). The idea is to give your starter a bunch more land to conquer this time, which will slow it down so it only reaches its peak at ~8am the next morning.
+      - If it's fully ripe, that means your cold and unfed starter achieved ripeness in 6 hours. Your starter is now warm and active, so another 1:1:1 feeding now will take even less time, and you'll miss the 8am connection you're hoping to make. So feed it again, but now with a 1:3:3 ratio (1 part starter, 3 parts flour, 3 parts water). The idea is to give your starter a bunch more land to conquer this time, which will slow it down so it only reaches its peak at ~8am the next morning.
       - If it's not fully ripe at 10pm, check it at midnight. Ripe? Give it a 1:2:2 feed. Not ripe? Give it a 1:1:1 feed.
 
 3. At 8am, start following the sourdough recipe.
