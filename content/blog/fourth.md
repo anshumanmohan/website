@@ -27,8 +27,8 @@ We will follow:
 - [Big and Bubbly Focaccia, Sourdough Edition](https://www.kingarthurbaking.com/recipes/big-and-bubbly-focaccia-sourdough-edition-recipe)
 
 The former is King Arthur's Recipe of the Year 2025, and the latter proceeds exactly in lockstep.
-It's quite pedagogically useful that these recipes are so similar, and so I ask that you use these recipes even if you'd normally use something else.
-The recipes are straightforward and well-written, and we'll mostly make them as written.
+It's pedagogically useful that these recipes are so similar, and so I ask that you use these recipes even if you'd normally use something else.
+The recipes are straightforward and well-written, and we'll mostly follow them as written.
 
 Print these off, and use a highlighter to mark the differences between the two recipes. There are only a few, and they're basically all about timing. Here's a representative example: step 11 of the yeast recipe calls for a rest of 1-1.5 hours, while step 11 of the sourdough recipe calls for a rest of 4-6 hours.
 
@@ -54,7 +54,7 @@ There's a lot of latitude when it comes to toppings. Here's what I had at hand:
 - Pesto
 - Anchovies
 - Caramelized onions
-- Whole cloves of garlic, split in half lengthwise if quite large
+- Whole cloves of garlic, split in half lengthwise if large
 
 As to equipment:
 - Scale
@@ -102,8 +102,12 @@ I think making King Arthur's parchment sling is super silly and I'd skip it. Wra
 1. At 4pm, pre-heat your oven.
 If you've been using your oven as the warm spot for all the resting, pull your pans out and set them on the range.
 
-2. On paper, sketch two 3x3 grids.
-As students arrive, ask them to carefully note the marshmallowy texture of the dough. Have them stake some territory on paper and then decorate the corresponding territory on a loaf. The first two students get the honor of dimpling the loaves, I guess. Having a total of twelve students is nice because that gives everyone their own custom square and an additional taster from common square. Those are marked <span style="color:red">`CS`</span> below, and you should decorate them yourself, erring on the side of simplicity so that the bread can shine.
+2. As students arrive, ask them to carefully note the marshmallowy texture of the dough.
+This texture is a visual cue that students need to look for in general, so it's worth pointing out now.
+Speak a little about how, although the two pans may look the same at present, it took vastly different lengths of time to get them that way!
+
+3. On paper, sketch two 3x3 grids.
+Have students stake some territory on paper and then decorate the corresponding territory on a loaf. The first two students get the honor of dimpling the loaves, I guess. Having a total of twelve students is nice because that gives everyone their own custom square and an additional taster from common square. Those are marked <span style="color:red">`CS`</span> below, and you should decorate them yourself, erring on the side of simplicity so that the bread can shine.
 
 <center>
 
@@ -115,19 +119,19 @@ As students arrive, ask them to carefully note the marshmallowy texture of the d
 
 </center>
 
-3. Put your loaves in to bake.
+4. Put your loaves in to bake.
 
-4. The loaves will bake for 15 minutes or so, which is a perfect length of time to... you guessed it, mix up another loaf.
+5. The loaves will bake for 15 minutes or so, which is a perfect length of time to... you guessed it, mix up another loaf.
 The point of this is not just the pursuit of endless pain (that is an excellent pun if you say the last word in French). The point is to show your students what a *fold* looks and feels like. You have three choices as a teacher.
     1. Skip this step. You'll still be Teacher of the Year. It's fine if your students don't get to experience a fold.
     2. Mix a yeast dough.
     3. Mix a sourdough dough. This is no harder in the moment, but it takes more babysitting after the students have left.
-5. Regardless of your choice above, at least show your students your ripe starter and then have them give it a 1:1:1 maintenance feed.
-6. Pull your loaves out.
+6. Regardless of your choice above, at least show your students your ripe starter and then have them give it a 1:1:1 maintenance feed.
+7. Pull your loaves out.
 Split into 9s, and then halve the six common squares again so that everyone gets to try both the sourdough and yeast varieties. Put out good olive oil and balsamic vinegar. Rejoice in the miracle of fresh bread. Have students reflect on the differences between the two loaves.
-7. If you chose 4.2 or 4.3 above, put in folds every 15 minutes.
+8. If you chose 5.2 or 5.3 above, put in folds every 15 minutes.
 Note that your oven, even if immediately turned off, is now too hot to serve as a warm spot for bread to rise.
-8. Once folks are done eating, you can send a student off with the third dough.
+9. Once folks are done eating, you can send a student off with the third dough.
 It can either be folded a few more times and baked soon, or stuck in the fridge and returned to later. It's also a nice idea to have a few little jars at hand so you can give students their own starter!
 
 
