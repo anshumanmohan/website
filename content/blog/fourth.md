@@ -74,11 +74,11 @@ I played myself by announcing my lesson for 10am, which meant that I had to put 
 Don't be like me; announce a late afternoon lesson. In the rest of this lesson plan I assume you announced 4pm. A cap of 12 students will make good sense, as you'll see.
 
 2. Your first folds will happen at 8am.
-So at 8am, you will need a cup of [ripe](https://www.kingarthurbaking.com/blog/2016/05/17/ripe-sourdough-starter) starter. If you know how to achieve that, do what you need to do and skip the rest of my discussion for this step. But if you're like me and your starter lives in the fridge and is fed every two weeks and you don't really know its whims and fancies, we'll need to feel things out a little.
-    - Bring your starter out of the fridge at 4pm the previous day and give it a 1:1:1 feed (1 part starter, 1 part flour, 1 part water) by weight.
+So at 8am, you will need a cup of [ripe](https://www.kingarthurbaking.com/blog/2016/05/17/ripe-sourdough-starter) starter. If you know how to achieve that, do what you need to do and skip the rest of my discussion for this step. But if you're a sporadic baker like me and you don't really know your starter's whims and fancies, we'll need to feel things out a little. I like to get to ripeness over two feedings.
+    - Bring your starter out of the fridge at 4pm the previous day and give it a 1:1:1 feed (1 part starter, 1 part flour, 1 part water by weight).
     - Put it in a warm spot. I was very happy using an oven that's turned off but has its light on. If it's really quite cold in your house, you can boil a kettle of water and then put the whole kettle in the off oven.
     - Check on it at 10pm.
-      - If it's fully ripe, that means your cold and unfed starter achieved ripeness in 6 hours. Your starter is now warm and active, so another 1:1:1 feeding now will take even less time, and you'll miss the 8am connection you're hoping to make. So feed it again, but now with a 1:4:4 ratio (1 part starter, 4 parts flour, 4 parts water). The idea is to give your starter a bunch more land to conquer this time, which will slow it down so it only reaches its peak at ~8am the next morning.
+      - If it's fully ripe, that means your cold and unfed starter achieved ripeness in 6 hours. Your starter is now warm and active, so a 1:1:1 feeding now will take even less time, and you'll miss the 8am connection you're hoping to make. So feed it again, but now with a 1:4:4 ratio (1 part starter, 4 parts flour, 4 parts water). The idea is to give your starter a bunch more land to conquer this time, which will slow it down so it only reaches its peak at ~8am the next morning.
       - If it's not fully ripe at 10pm, check it at midnight. Depending on how ripe it is then, give it a 1:3:3, 1:2:2, or 1:1:1 feed.
 
 3. At 8am, start following the sourdough recipe.
@@ -88,7 +88,7 @@ So at 8am, you will need a cup of [ripe](https://www.kingarthurbaking.com/blog/2
 5. You should be done with your four folds by 9:30am. Stick the whole bowl, covered with clingwrap, in a warm spot.
 
 6. At 11am, proceed by tipping the dough into the pan.
-I think making King Arthur's parchment sling is super silly and I'd skip it. Wrap the pan tightly in clingwrap using a [cater-wrap](https://youtube.com/shorts/log4tlCeW4g?si=6USoLCd38lNQvFCr) and stick it back in a warm spot. This dough will be ready for your students in 5 hours.
+Wrap the pan tightly in clingwrap using a [cater-wrap](https://youtube.com/shorts/log4tlCeW4g?si=6USoLCd38lNQvFCr) and stick it back in a warm spot. This dough will be ready for your students in 5 hours.
 
 7. At noon, rinse your bowl and start following the non-sourdough recipe.
     - I have one opinionated divergence versus King Arthur's recipe: they call for instant yeast, but I think it's weird to ask your students to get this relatively specialized ingredient. Switch to active dry yeast. The swap is 1:1, but as a first step you should divert a quarter cup of the called-for warm water into a small bowl and bloom your active dry yeast. Then proceed as normal.
@@ -121,11 +121,11 @@ Have students stake some territory on paper and then decorate the corresponding 
 
 4. Put your loaves in to bake.
 
-5. The loaves will bake for 15 minutes or so, which is a perfect length of time to... you guessed it, mix up another loaf.
-The point of this is not just the pursuit of endless pain (that is an excellent pun if you say the last word in French). The point is to give your students the chance to put in some *folds*. You have three choices as a teacher.
+5. The loaves will bake for 15 minutes or so, which is a perfect length of time to... you guessed it, start making a third dough.
+The point of this is not just the pursuit of endless pain (that is an excellent pun if you say the last word in French). The point is to give your students the chance to put in some folds. You have three choices as a teacher.
     1. Skip this step. You'll still be Teacher of the Year. It's fine if your students don't get to experience a fold.
     2. Have your students mix a yeast dough.
-    3. Have your students mix a sourdough dough. This is no harder in the moment, but it takes more babysitting later.
+    3. Have your students mix a sourdough dough. This is no harder in the moment, but it demands more babysitting later.
 6. Regardless of your choice above, at least pass your starter around to your students and have them note its look, smell, volume, and bubbly activity. Have them give it a 1:1:1 maintenance feed.
 7. Pull your loaves out.
 Split each loaf into nine, and additionally halve the six common squares so that everyone gets to try both the sourdough and yeast varieties of bread. Set out good olive oil and balsamic vinegar. Rejoice in the miracle of fresh bread. Have students reflect on the differences between the two loaves.
