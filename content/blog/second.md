@@ -16,7 +16,7 @@ A first attempt at writing code is often frustrating because the computer feels 
 Because it wants to; because it can.
 The best one can do is to memorize this behavior and deal with it.
 At worst, the computer becomes the adversary.
-At best, it becomes an eccentric and unreliable teammate with whom we have somehow learned to collaborate.
+At best, it becomes an eccentric and unreliable teammate with whom one has somehow learned to collaborate.
 
 [Computational thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf), a cool new idea from Jeannette Wing, argues that people need to understand how a computer thinks, what compels it, and what limits it.
 I think it's possible, and worthwhile, to introduce these ideas to our youngest students, even before they learn to code.
