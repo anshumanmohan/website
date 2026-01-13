@@ -24,14 +24,14 @@
       <p> I am a PhD candidate at <a href="https://www.cornell.edu/">Cornell University</a>'s <a href="https://www.cs.cornell.edu/">Department of Computer Science</a>.
         My research sits at the intersection of programming languages, computer networks, and computer architecture.
         My advisor is <a href="https://www.cs.cornell.edu/~asampson/">Adrian Sampson</a>, and I have ongoing
-        collaborations with <a href="https://www.cs.cornell.edu/~jnfoster/">Nate Foster</a> and <a
+        collaborations with <a href="https://natefoster.org/">Nate Foster</a> and <a
           href="http://james.grimmelmann.net/">James Grimmelmann</a>.
       </p>
       <p> Before Cornell, I worked with
-        <a href="https://www.comp.nus.edu.sg/~hobor/">Aquinas Hobor</a> on CertiGraph, a Coq development for the formal
+        <a href="https://www.comp.nus.edu.sg/~hobor/">Aquinas Hobor</a> on CertiGraph, a Rocq development for the formal
         verification of graph-manipulating programs written in C.
         <!-- Highlights include the verification of a garbage collector for the  -->
-        <!-- CertiCoq compiler, the discovery of an overflow bug in Dijkstra's algorithm, -->
+        <!-- CertiRocq compiler, the discovery of an overflow bug in Dijkstra's algorithm, -->
         <!-- and a refinement in the precondition of Prim's algorithm. </p> -->
         Before Aquinas, I was part of the inaugural cohort of
         <a href="https://www.yale-nus.edu.sg/">Yale-NUS College</a>.
@@ -296,7 +296,7 @@
         We show that Dijkstra has an overflow issue that places delicate restrictions on
         the maximum allowable path cost. We also debunk the universal misconception that
         Prim runs correctly only on connected graphs.
-        Our proofs are checked in Coq.
+        Our proofs are checked in Rocq.
       </p>
     </div>
 
@@ -328,7 +328,7 @@
         <span class="nowrap">(\(+\), \(\times\), exp, tetration, etc)</span>
         and its inverse
         <span class="nowrap">(\(-\), \(\div\), log, log\(^{*}\), etc)</span>.
-        Our definitions are proved correct in Coq,
+        Our definitions are proved correct in Rocq,
         and our time bounds are supported by pen-and-paper proofs and
         benchmarks after extraction to OCaml.
       </p>
@@ -359,8 +359,8 @@
         arbitrarily, so uninvolved subgraphs cannot be "framed away".
         We address this with a new separation logic rule
         called <span class="sc">localize</span>.
-        We develop CertiGraph, a Coq library that provides a
-        setup for defining mathematical graphs in Coq, laying them out in memory
+        We develop CertiGraph, a Rocq library that provides a
+        setup for defining mathematical graphs in Rocq, laying them out in memory
         via separation logic,
         and stating and proving properties about them.
         We demonstrate the power of CertiGraph by using it to verify seven
@@ -369,7 +369,7 @@
         We identify two places where the semantics of C is
         too restrictive to define
         OCaml-style GCs.
-        Our proofs are checked in Coq. </p>
+        Our proofs are checked in Rocq. </p>
     </div>
 
   </div>
