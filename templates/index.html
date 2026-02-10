@@ -191,23 +191,31 @@
       <p>
         Kim, Li, Mohan, Butt, Sampson, Nigam </p>
       <p> OOPSLA 2024, Pasadena </p>
-      <p> <a href="https://dl.acm.org/doi/10.1145/3689790">Paper</a> &middot
+      <p> <a href={{ get_url(path="slides/piezo-slides.pdf" )}}>Slides</a>
+        &middot;
+        <a href="https://dl.acm.org/doi/10.1145/3689790">Paper</a> &middot
         Code merged into <a href=https://calyxir.org />Calyx</a>
       </p>
     </div>
 
     <div class=" blurb">
       <p>
-        Compilers for <em>accelerator design languages</em> translate
+        Compilers for <a href="https://www.cs.cornell.edu/~asampson/blog/adl.html">accelerator design
+          languages</a> translate
         high-level languages into application-specific hardware.
-        These compilers rely on a control interface to compose hardware units.
+        These compilers rely on a <em>control interface</em> to compose hardware units.
         There are two choices: static control,
         which relies on cycle-level timing; and dynamic control, which
         uses explicit signalling to avoid depending on timing details.
         Static control is efficient but brittle; dynamic control incurs
         hardware costs to support compositional reasoning.
         We present a compiler that unifies static and dynamic
-        control in a single intermediate language, and yields rich dividends.
+        control in a single intermediate language, and yields rich dividends. Our key observation is that the schedule
+        that can be generated using static control is merely a refinement of the schedule that can be generated using
+        dynamic control.
+        We can thus optimize code by combining facts from static
+        and dynamic submodules, and can opportunistically convert
+        code from dynamic to static control styles.
       </p>
     </div>
 
