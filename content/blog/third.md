@@ -1,6 +1,6 @@
 +++
 title = "Eating in Singapore"
-date = 2025-04-24
+date = 2026-02-21
 description = "A few food reccs so you don't just eat conference food in your Sentosa hotel."
 slug = "eatgoodsg"
 [extra]
